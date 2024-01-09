@@ -9,8 +9,6 @@
 
 <h2>Project description</h2>
 
-<h2>Project description</h2>
-
 <h3>Core Functionalities</h3>
 <ul>
     <li>
