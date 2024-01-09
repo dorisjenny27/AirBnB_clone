@@ -9,38 +9,32 @@
 
 <h2>Project description</h2>
 
+<h2>Project description</h2>
+
+<h3>Core Functionalities</h3>
 <ul>
-  <li>
-      <h3>Dashboard:</h3>
-      <p>Displays an overview of current bookings, messages from guests, and updates from Airbnb. 
-      It might show key metrics like occupancy rates and earnings.</p>
-  </li>
-
-  <li>
-      <h3>Listing Management:</h3> 
-      <p>Allows users to create, update, and delete property listings.</p>
-  </li>
-
-  <li>
-      <h3>Booking System:</h3>
-      <p>Facilitates reservation making, viewing, and cancellation.</p>
-  </li>
-
-  <li>
-      <h3>Review System:</h3>
-      <p>Provides functionality for writing and viewing reviews of properties and guests.</p>
-  </li>
-
-  <li>
-      <h3>Search Functionality:</h3>
-      <p>Enables searching for properties based on different criteria like location, price, and amenities.</p>
-  </li>
-
-  <li>
-      <h3>Administrative Features:</h3>
-      <p>Offers tools for admins to manage users and listings, and to view system statistics.</p>
-  </li>
+    <li>
+        <h3>Create a New Object</h3>
+        <p>This functionality allows for the creation of new objects within the system, such as a new User or a new Place.</p>
+    </li>
+    <li>
+        <h3>Retrieve an Object</h3>
+        <p>Enables retrieving objects from various sources like a file, a database, etc.</p>
+    </li>
+    <li>
+        <h3>Operations on Objects</h3>
+        <p>Perform different operations on objects including counting, computing statistics, and other analytical tasks.</p>
+    </li>
+    <li>
+        <h3>Update Object Attributes</h3>
+        <p>This feature allows for updating the attributes of an existing object in the system.</p>
+    </li>
+    <li>
+        <h3>Destroy an Object</h3>
+        <p>Provides the capability to delete or destroy an object from the system.</p>
+    </li>
 </ul>
+
 
 <h2>How to Start the Command Interpreter</h2>
 <ol>
